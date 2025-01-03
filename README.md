@@ -31,3 +31,23 @@ The webpage showcases a menu with three sections: **Chicken**, **Beef**, and **S
 ---
 
 ## 🧩 Project Structure
+---
+
+## 🌟 How to Use
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/your-repository-name.git
+
+
+### Instructions to Add to GitHub
+1. Save the above content in a file named `README.md`.
+2. Place the `README.md` file in the root folder of your project.
+3. Push the changes to your GitHub repository:
+   ```bash
+   git add README.md
+   git commit -m "Added README file"
+   git push origin master
+
+
+
